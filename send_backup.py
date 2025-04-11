@@ -8,7 +8,7 @@ def send_email(to_email, subject, log_file):
     smtp_server = "smtp.gmail.com"  # Cambia esto por tu servidor SMTP
     smtp_port = 587
     smtp_user = "david.brito.pacheco@gmail.com"  # Cambia esto por tu correo
-    smtp_password = ""  # Cambia esto por tu contraseña
+    smtp_password = "kbgz ytya zccu ttjb"  # Cambia esto por tu contraseña
 
     # Leer el contenido del archivo de log
     with open(log_file, "r") as file:
